@@ -1,6 +1,7 @@
 ***Data Viewer***
 
 A web application for visualizing European Union statistical data through interactive charts and tables. The application fetches data from Eurostat API and presents it in three different visualization formats.
+
 Features
 
 1. Line Chart
