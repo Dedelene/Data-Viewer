@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <title>Vizualizare date</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    
+        <link href="https://fonts.googleapis.com/css2?family=Aboreto&family=Asset&family=Bungee+Hairline&family=Petit+Formal+Script&family=Varela+Round&display=swap" rel="stylesheet">   
+    </head>
+    <body>
+
+        <h1 id="titleApp">Data Viewer</h1>
+        
+        <!--Line Chart-->
+
+        <div class="app-wrapper">
+            <h2 class="titles">Line Chart</h2>
+            <div class="main-content">
+                <div class="options">
+                <label for="countries">Country</label>
+                <select name="countries" id="countries">
+                    <option value="BE">Belgium</option>
+                    <option value="BG">Bulgaria</option>
+                    <option value="CZ">Czech Rep</option>
+                    <option value="DK">Denmark</option>
+                    <option value="DE">Germany</option>
+                    <option value="EE">Estonia</option>
+                    <option value="IE">Ireland</option>
+                    <option value="EL">Greece</option>
+                    <option value="ES">Spain</option>
+                    <option value="FR">France</option>
+                    <option value="HR">Croatia</option>
+                    <option value="IT">Italy</option>
+                    <option value="CY">Cyprus</option>
+                    <option value="LV">Latvia</option>
+                    <option value="LT">Lithuania</option>
+                    <option value="LU">Luxembourg</option>
+                    <option value="HU">Hungary</option>
+                    <option value="MT">Malta</option>
+                    <option value="NL">Netherlands</option>
+                    <option value="AT">Austria</option>
+                    <option value="PL">Poland</option>
+                    <option value="PT">Portugal</option>
+                    <option value="RO">Romania</option>
+                    <option value="SI">Slovenia</option>
+                    <option value="SK">Slovakia</option>
+                    <option value="FI">Finland</option>
+                    <option value="SE">Sweden</option>
+                </select>
+                <label for="indicatori">Indicator</label>
+                <select name="indicatori" id="indicatori">
+                    <option value="SV">Life Expectancy</option>
+                    <option value="PIB">GDP per capita</option>
+                    <option value="POP">Population</option>
+                </select>
+                <button id="btn">Generate Graphic</button>
+            </div>
+            <div id="graphicItems">
+                <h2 id="graphTitle" style="visibility: hidden;">Life Expectancy for Belgium</h2>
+                <svg id="grafic"></svg>
+                <p id="note" style="visibility: hidden;">Note: Hover over the data point for the year and value</p>
+            </div>
+            </div>
+        </div>
+
+        <!--Bubble Chart-->
+
+        <div class="app-wrapper">
+            <h2 class="titles">Bubble Chart</h2>
+            <div class="main-content">
+                <div class="options">
+                    <label for="years">Year</label>
+                    <select name="years" class="years" id="y1"></select>
+                    <button id="btn2">Generate Bubble</button>
+                    <div id="animation">
+                        <button id="btn3">Show</button>
+                    </div>
+                </div>
+                
+            <div id="bubble">
+                <h2>EU countries according to GDP per capita (x) and life expectancy (y)</h2>
+                <canvas id="bubbleChart"></canvas>  
+                <h3 id="bubbleYear" style="color: white; margin-left: 90%; margin-top: 5px;"></h3>
+            </div>
+            </div>
+            
+        </div>
+
+        <!--Data Table-->
+
+        <div class="app-wrapper">
+            <h2 class="titles">Data Table (according to the EU average)</h2>
+            <div class="main-class">
+                <div class="options" id="ybT">
+                    <label for="years">Year</label>
+                    <select name="years" class="years" id="y2"></select>
+                    <button id="btn4">Show Table</button>
+                </div>
+
+                <div class="app-wrapper">
+                    <div id="Tabel">
+                        <table id="table">
+                            <thead>
+                                <th>Country</th>
+                                <th>Life Expectancy</th>
+                                <th>GDP per capita</th>
+                                <th>Population</th>
+                            </thead>
+                            <tbody id="body"></tbody>
+                        </table>
+                    </div>
+                    <h5 id="info"></h5>
+                </div>
+            </div>
+        </div>
+
+        <script type="module" src="main.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    </body>
+</html>

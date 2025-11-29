@@ -1,0 +1,23 @@
+{
+  "name": "3_1098_voicu_andreea_diana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3_1098_VOICU_Andreea_Diana.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

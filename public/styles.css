@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Aboreto", cursive;
+}
+
+:root {
+    --dark-pink: rgb(165, 24, 139);
+    --pastel-pink: rgb(249, 223, 246);
+}
+
+body {
+    background-image: url('./media/picture.jfif');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.app-wrapper {
+    position: relative;
+    margin: 10px 15% 50px 15%;
+    padding: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(5px);
+}
+
+#titleApp {
+    position: relative;
+    color: white;
+    display: flex;
+    margin: 30px 10%;
+    font-family: "Petit Formal Script", cursive;
+}
+
+.titles{
+    position: relative;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.main-content {
+    display: flex;
+    margin: 30px 10px 50px 10px;
+    gap: 100px;
+}
+
+.options {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 150px;
+    flex-shrink: 0;
+    margin-top: 40px;
+}
+
+#graphicItems{
+    position: relative;
+    flex-grow: 1;
+}
+
+#graphTitle{
+    display: flex;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#grafic {
+    position: relative;
+    border: 1px solid var(--dark-pink);
+    width: 100%;
+    height: 300px;
+    margin: auto;
+}
+
+#note {
+    margin-top: 5px;
+    text-align: right;
+    color: var(--pastel-pink);
+    font-size: small;
+}
+
+.options label
+{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 2px;;
+}
+
+.options select option {
+    background: white;
+    color: var(--pastel-purple);
+    padding: 5px 10px;
+}
+
+.options select,
+#btn,
+#btn2,
+#btn3,
+#btn4 {
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 8px;
+    margin: 5px 10px;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid white;
+    color: var(--dark-pink);
+    transition: all 0.3s ease;
+}
+
+#btn, 
+#btn2,
+#btn3,
+#btn4 {
+    padding: 15px 18px;
+    margin-top: 50px;
+    border: 1px solid white;
+    cursor: pointer;
+    opacity: 0.9; 
+}
+
+.options select:hover,
+#btn:hover,
+#btn2:hover,
+#btn3:hover,
+#btn4:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    opacity: 2;
+}
+
+.options select label,
+#btn2{
+    margin-top: 70px;
+}
+
+#bubble{
+    position: relative;
+    width: 100%;
+    height: 50vh;
+}
+
+#bubbleChart{
+    position: relative;
+    border: 1px solid var(--dark-pink);
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+#bubble h2{
+    font-size: 15px;
+    text-align: right;
+    color: white;
+    margin-bottom: 5px;
+}
+
+#btn3{
+    margin-left: 20px;
+    padding: 25px 25px;
+    border-radius: 100%;
+}
+
+#ybT{
+    margin: auto;
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+#Tabel{
+    display: flex;
+    flex-direction: column;
+}
+
+#Tabel thead{
+    color: var(--dark-pink);
+}
+
+#Tabel tbody{
+    color: white;
+    text-align: center;
+}
+
+td{
+    padding: 3px 0px;
+}
+
+#info{
+    margin-left: 30%;
+    color: var(--dark-pink);
+}

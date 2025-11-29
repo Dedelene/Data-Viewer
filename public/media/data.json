@@ -1,0 +1,7124 @@
+[
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "BE",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "BE",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "BE",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "BE",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "BE",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.9
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "BG",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "BG",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 72.7
+  },
+  {
+    "tara": "BG",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 70.6
+  },
+  {
+    "tara": "BG",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "BG",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 75.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 76.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 77.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 78.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 78.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 77.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 78.2
+  },
+  {
+    "tara": "CZ",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 78.6
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.1
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.6
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DK",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "DK",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "DK",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "DK",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "DK",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "DE",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "DE",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "DE",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "DE",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DE",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "EE",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 78.1
+  },
+  {
+    "tara": "EE",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 78
+  },
+  {
+    "tara": "EE",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 76.3
+  },
+  {
+    "tara": "EE",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "EE",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 78.3
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IE",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "IE",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "IE",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IE",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "IE",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "EL",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "EL",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "EL",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "EL",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "EL",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 82.4
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.6
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "ES",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 83.2
+  },
+  {
+    "tara": "ES",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "ES",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "ES",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 82.4
+  },
+  {
+    "tara": "ES",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 83.2
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.2
+  },
+  {
+    "tara": "FR",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "FR",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "FR",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "FR",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "FR",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 76.1
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76.6
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.5
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "HR",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "HR",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 76.9
+  },
+  {
+    "tara": "HR",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 75.9
+  },
+  {
+    "tara": "HR",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 77
+  },
+  {
+    "tara": "HR",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 77.9
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82.6
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "IT",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82.8
+  },
+  {
+    "tara": "IT",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IT",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "IT",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "IT",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.3
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "CY",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "CY",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "CY",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "CY",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "CY",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 72.5
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 73.6
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 73.7
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "LV",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "LV",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "LV",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 72.3
+  },
+  {
+    "tara": "LV",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 73.6
+  },
+  {
+    "tara": "LV",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 72.6
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 73.1
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 73.9
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.3
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "LT",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "LT",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 74.4
+  },
+  {
+    "tara": "LT",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LT",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 75.1
+  },
+  {
+    "tara": "LT",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "LU",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82.1
+  },
+  {
+    "tara": "LU",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LU",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.9
+  },
+  {
+    "tara": "LU",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "LU",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 74.1
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 75.2
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "HU",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "HU",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "HU",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 73.4
+  },
+  {
+    "tara": "HU",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HU",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 82
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "MT",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "MT",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "MT",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 81.8
+  },
+  {
+    "tara": "MT",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.7
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "NL",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "NL",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "NL",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "NL",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "NL",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "AT",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "AT",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "AT",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "AT",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75.8
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 77.1
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.9
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 77
+  },
+  {
+    "tara": "PL",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 77.3
+  },
+  {
+    "tara": "PL",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "PL",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "PL",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 76.5
+  },
+  {
+    "tara": "PL",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 77.7
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.3
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.1
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "PT",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "PT",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "PT",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "PT",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "PT",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 73.5
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 74.2
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 74.5
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 74.7
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "RO",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 73.6
+  },
+  {
+    "tara": "RO",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 72.2
+  },
+  {
+    "tara": "RO",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 74.6
+  },
+  {
+    "tara": "RO",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 75.9
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "SI",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "SI",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 79.7
+  },
+  {
+    "tara": "SI",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "SI",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "SI",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 75
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 75.5
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 75.7
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 76
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 76.1
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 76.8
+  },
+  {
+    "tara": "SK",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 77.2
+  },
+  {
+    "tara": "SK",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "SK",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 74
+  },
+  {
+    "tara": "SK",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 76.4
+  },
+  {
+    "tara": "SK",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 77.6
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 79.4
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 79.8
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 79.9
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 80.3
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 80.5
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 80.7
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 80.6
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "FI",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "FI",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "FI",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 81.1
+  },
+  {
+    "tara": "FI",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 80.4
+  },
+  {
+    "tara": "FI",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 80.8
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "SV",
+    "valoare": 80.9
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "SV",
+    "valoare": 81
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "SV",
+    "valoare": 81.2
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "SV",
+    "valoare": 81.5
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "SV",
+    "valoare": 81.4
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "SV",
+    "valoare": 81.7
+  },
+  {
+    "tara": "SE",
+    "an": "2019",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "SE",
+    "an": "2020",
+    "indicator": "SV",
+    "valoare": 81.6
+  },
+  {
+    "tara": "SE",
+    "an": "2021",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "SE",
+    "an": "2022",
+    "indicator": "SV",
+    "valoare": 82.3
+  },
+  {
+    "tara": "SE",
+    "an": "2023",
+    "indicator": "SV",
+    "valoare": 82.5
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 128082
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 129580
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 131406
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 129655
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 128553
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 126087
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 126288
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 123363
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 122698
+  },
+  {
+    "tara": "BE",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 120596
+  },
+  {
+    "tara": "BE",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 119619
+  },
+  {
+    "tara": "BE",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 118487
+  },
+  {
+    "tara": "BE",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 115549
+  },
+  {
+    "tara": "BE",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 120490
+  },
+  {
+    "tara": "BE",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 116013
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 70303
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 72148
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 69093
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 67949
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 64372
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 61993
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 63785
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 61979
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 61111
+  },
+  {
+    "tara": "BG",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 60527
+  },
+  {
+    "tara": "BG",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 58118
+  },
+  {
+    "tara": "BG",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 56713
+  },
+  {
+    "tara": "BG",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 56791
+  },
+  {
+    "tara": "BG",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 56404
+  },
+  {
+    "tara": "BG",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 57149
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 121706
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 121127
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 119389
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 109146
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 109138
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 108273
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 111185
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 111765
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 113433
+  },
+  {
+    "tara": "CZ",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 114916
+  },
+  {
+    "tara": "CZ",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 114505
+  },
+  {
+    "tara": "CZ",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 110593
+  },
+  {
+    "tara": "CZ",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 108020
+  },
+  {
+    "tara": "CZ",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 115690
+  },
+  {
+    "tara": "CZ",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 103150
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 65977
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 63665
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 64168
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 59718
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 58721
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 56748
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 57894
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 59253
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 62508
+  },
+  {
+    "tara": "DK",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 62046
+  },
+  {
+    "tara": "DK",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 61916
+  },
+  {
+    "tara": "DK",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 61663
+  },
+  {
+    "tara": "DK",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 61514
+  },
+  {
+    "tara": "DK",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 64341
+  },
+  {
+    "tara": "DK",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 59115
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 687796
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 666105
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 679236
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 665848
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 684337
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 695915
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 740078
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 762519
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 796149
+  },
+  {
+    "tara": "DE",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 796374
+  },
+  {
+    "tara": "DE",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 794132
+  },
+  {
+    "tara": "DE",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 783593
+  },
+  {
+    "tara": "DE",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 780795
+  },
+  {
+    "tara": "DE",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 786020
+  },
+  {
+    "tara": "DE",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 739396
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 16000
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 15800
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 15945
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 14725
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 14061
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 13861
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 13795
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 14171
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 14219
+  },
+  {
+    "tara": "EE",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 13891
+  },
+  {
+    "tara": "EE",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 14543
+  },
+  {
+    "tara": "EE",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 14209
+  },
+  {
+    "tara": "EE",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 13343
+  },
+  {
+    "tara": "EE",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 13825
+  },
+  {
+    "tara": "EE",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 12018
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 74396
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 74910
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 71754
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 72128
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 68868
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 66567
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 64672
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 63285
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 64159
+  },
+  {
+    "tara": "IE",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 62283
+  },
+  {
+    "tara": "IE",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 60703
+  },
+  {
+    "tara": "IE",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 58434
+  },
+  {
+    "tara": "IE",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 55957
+  },
+  {
+    "tara": "IE",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 60393
+  },
+  {
+    "tara": "IE",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 56751
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 113056
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 115049
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 110528
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 105801
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 99952
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 93665
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 91460
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 93161
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 95348
+  },
+  {
+    "tara": "EL",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 91148
+  },
+  {
+    "tara": "EL",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 89076
+  },
+  {
+    "tara": "EL",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 85706
+  },
+  {
+    "tara": "EL",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 81020
+  },
+  {
+    "tara": "EL",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 80385
+  },
+  {
+    "tara": "EL",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 77305
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 520785
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 494927
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 483549
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 474677
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 451484
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 424800
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 427184
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 420930
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 413253
+  },
+  {
+    "tara": "ES",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 396241
+  },
+  {
+    "tara": "ES",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 374063
+  },
+  {
+    "tara": "ES",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 365236
+  },
+  {
+    "tara": "ES",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 346269
+  },
+  {
+    "tara": "ES",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 346953
+  },
+  {
+    "tara": "ES",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 338464
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 800823
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 799672
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 808857
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 792716
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 794776
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 782784
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 776214
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 758783
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 744428
+  },
+  {
+    "tara": "FR",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 728423
+  },
+  {
+    "tara": "FR",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 717759
+  },
+  {
+    "tara": "FR",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 712862
+  },
+  {
+    "tara": "FR",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 695081
+  },
+  {
+    "tara": "FR",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 697960
+  },
+  {
+    "tara": "FR",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 681241
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 43169
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 44146
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 43350
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 40845
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 41379
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 39534
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 38882
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 36765
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 36751
+  },
+  {
+    "tara": "HR",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 35909
+  },
+  {
+    "tara": "HR",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 36077
+  },
+  {
+    "tara": "HR",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 34962
+  },
+  {
+    "tara": "HR",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 34771
+  },
+  {
+    "tara": "HR",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 35923
+  },
+  {
+    "tara": "HR",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 34108
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 569963
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 561694
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 551720
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 539163
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 533916
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 511448
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 499707
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 482975
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 470412
+  },
+  {
+    "tara": "IT",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 455746
+  },
+  {
+    "tara": "IT",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 436785
+  },
+  {
+    "tara": "IT",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 423269
+  },
+  {
+    "tara": "IT",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 407634
+  },
+  {
+    "tara": "IT",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 404252
+  },
+  {
+    "tara": "IT",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 397193
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 9442
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 9839
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 10112
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 9595
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 9885
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 9321
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 9234
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 9204
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 9426
+  },
+  {
+    "tara": "CY",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 9239
+  },
+  {
+    "tara": "CY",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 9366
+  },
+  {
+    "tara": "CY",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 9613
+  },
+  {
+    "tara": "CY",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 9826
+  },
+  {
+    "tara": "CY",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 10536
+  },
+  {
+    "tara": "CY",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 10424
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 23758
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 21444
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 19333
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 18744
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 19969
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 20809
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 21997
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 22185
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 22052
+  },
+  {
+    "tara": "LV",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 20827
+  },
+  {
+    "tara": "LV",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 19291
+  },
+  {
+    "tara": "LV",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 18738
+  },
+  {
+    "tara": "LV",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 17500
+  },
+  {
+    "tara": "LV",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 17636
+  },
+  {
+    "tara": "LV",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 15962
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 30754
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 31538
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 30534
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 30205
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 29868
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 28815
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 29183
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 29827
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 29302
+  },
+  {
+    "tara": "LT",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 27873
+  },
+  {
+    "tara": "LT",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 26797
+  },
+  {
+    "tara": "LT",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 25068
+  },
+  {
+    "tara": "LT",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 23733
+  },
+  {
+    "tara": "LT",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 24669
+  },
+  {
+    "tara": "LT",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 22873
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 5727
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 5794
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 6049
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 5984
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 6187
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 6380
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 6342
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 6371
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 6319
+  },
+  {
+    "tara": "LU",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 6433
+  },
+  {
+    "tara": "LU",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 6604
+  },
+  {
+    "tara": "LU",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 6571
+  },
+  {
+    "tara": "LU",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 6670
+  },
+  {
+    "tara": "LU",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 6965
+  },
+  {
+    "tara": "LU",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 6699
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 98593
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 95861
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 89906
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 87789
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 90597
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 89541
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 93142
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 91856
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 95033
+  },
+  {
+    "tara": "HU",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 94053
+  },
+  {
+    "tara": "HU",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 92766
+  },
+  {
+    "tara": "HU",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 92761
+  },
+  {
+    "tara": "HU",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 93547
+  },
+  {
+    "tara": "HU",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 94583
+  },
+  {
+    "tara": "HU",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 90047
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 4059
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 4032
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 3948
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 4238
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 4248
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 4168
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 4292
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 4497
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 4580
+  },
+  {
+    "tara": "MT",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 4448
+  },
+  {
+    "tara": "MT",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 4643
+  },
+  {
+    "tara": "MT",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 4334
+  },
+  {
+    "tara": "MT",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 4388
+  },
+  {
+    "tara": "MT",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 4524
+  },
+  {
+    "tara": "MT",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 4398
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 185215
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 185288
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 184741
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 180066
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 175982
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 171587
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 175721
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 171594
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 173365
+  },
+  {
+    "tara": "NL",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 170816
+  },
+  {
+    "tara": "NL",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 169918
+  },
+  {
+    "tara": "NL",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 170354
+  },
+  {
+    "tara": "NL",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 169323
+  },
+  {
+    "tara": "NL",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 181514
+  },
+  {
+    "tara": "NL",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 169154
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 78931
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 77506
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 80080
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 79607
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 80628
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 81057
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 84416
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 85944
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 89110
+  },
+  {
+    "tara": "AT",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 88581
+  },
+  {
+    "tara": "AT",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 86659
+  },
+  {
+    "tara": "AT",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 85449
+  },
+  {
+    "tara": "AT",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 84286
+  },
+  {
+    "tara": "AT",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 87652
+  },
+  {
+    "tara": "AT",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 83717
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 426768
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 428533
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 412836
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 388824
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 388556
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 369374
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 374711
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 371194
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 384433
+  },
+  {
+    "tara": "PL",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 403815
+  },
+  {
+    "tara": "PL",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 388342
+  },
+  {
+    "tara": "PL",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 371644
+  },
+  {
+    "tara": "PL",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 350803
+  },
+  {
+    "tara": "PL",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 332990
+  },
+  {
+    "tara": "PL",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 304736
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 103011
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 96995
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 100555
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 96675
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 89632
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 82652
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 82214
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 85389
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 87028
+  },
+  {
+    "tara": "PT",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 86208
+  },
+  {
+    "tara": "PT",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 87159
+  },
+  {
+    "tara": "PT",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 87050
+  },
+  {
+    "tara": "PT",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 84952
+  },
+  {
+    "tara": "PT",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 80558
+  },
+  {
+    "tara": "PT",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 84629
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 209038
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 209256
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 207241
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 184451
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 178251
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 193175
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 197904
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 200079
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 203545
+  },
+  {
+    "tara": "RO",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 201786
+  },
+  {
+    "tara": "RO",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 203516
+  },
+  {
+    "tara": "RO",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 205936
+  },
+  {
+    "tara": "RO",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 188474
+  },
+  {
+    "tara": "RO",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 181279
+  },
+  {
+    "tara": "RO",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 181456
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 22213
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 21997
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 22576
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 22117
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 22101
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 21188
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 21172
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 20607
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 20341
+  },
+  {
+    "tara": "SI",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 20317
+  },
+  {
+    "tara": "SI",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 19701
+  },
+  {
+    "tara": "SI",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 19480
+  },
+  {
+    "tara": "SI",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 18866
+  },
+  {
+    "tara": "SI",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 19208
+  },
+  {
+    "tara": "SI",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 17719
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 57108
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 59701
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 57712
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 61091
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 56389
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 55747
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 56119
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 56967
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 59054
+  },
+  {
+    "tara": "SK",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 59484
+  },
+  {
+    "tara": "SK",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 59215
+  },
+  {
+    "tara": "SK",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 58544
+  },
+  {
+    "tara": "SK",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 57400
+  },
+  {
+    "tara": "SK",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 57655
+  },
+  {
+    "tara": "SK",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 53688
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 59925
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 60793
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 61504
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 60455
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 60094
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 58804
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 58008
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 55856
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 53542
+  },
+  {
+    "tara": "FI",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 50934
+  },
+  {
+    "tara": "FI",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 48090
+  },
+  {
+    "tara": "FI",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 46120
+  },
+  {
+    "tara": "FI",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 46833
+  },
+  {
+    "tara": "FI",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 50091
+  },
+  {
+    "tara": "FI",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 45597
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "POP",
+    "valoare": 110902
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "POP",
+    "valoare": 113423
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "POP",
+    "valoare": 117242
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "POP",
+    "valoare": 113452
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "POP",
+    "valoare": 114923
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "POP",
+    "valoare": 115572
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "POP",
+    "valoare": 117932
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "POP",
+    "valoare": 118568
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "POP",
+    "valoare": 121975
+  },
+  {
+    "tara": "SE",
+    "an": "2019",
+    "indicator": "POP",
+    "valoare": 118762
+  },
+  {
+    "tara": "SE",
+    "an": "2020",
+    "indicator": "POP",
+    "valoare": 118776
+  },
+  {
+    "tara": "SE",
+    "an": "2021",
+    "indicator": "POP",
+    "valoare": 116591
+  },
+  {
+    "tara": "SE",
+    "an": "2022",
+    "indicator": "POP",
+    "valoare": 115050
+  },
+  {
+    "tara": "SE",
+    "an": "2023",
+    "indicator": "POP",
+    "valoare": 116123
+  },
+  {
+    "tara": "SE",
+    "an": "2024",
+    "indicator": "POP",
+    "valoare": 106254
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 39420
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 39670
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 39510
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 39440
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 39960
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 40310
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 40590
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 41030
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 41610
+  },
+  {
+    "tara": "BE",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 42400
+  },
+  {
+    "tara": "BE",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 40190
+  },
+  {
+    "tara": "BE",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 42530
+  },
+  {
+    "tara": "BE",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 43860
+  },
+  {
+    "tara": "BE",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 44230
+  },
+  {
+    "tara": "BE",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 44460
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 7060
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 7390
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 7530
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 7600
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 7770
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 8130
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 8490
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 8840
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 9170
+  },
+  {
+    "tara": "BG",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 9650
+  },
+  {
+    "tara": "BG",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 9440
+  },
+  {
+    "tara": "BG",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 10250
+  },
+  {
+    "tara": "BG",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 10740
+  },
+  {
+    "tara": "BG",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 10950
+  },
+  {
+    "tara": "BG",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 11330
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 17770
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 18120
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 17970
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 17970
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 18370
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 19270
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 19760
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 20760
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 21320
+  },
+  {
+    "tara": "CZ",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 22050
+  },
+  {
+    "tara": "CZ",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 20980
+  },
+  {
+    "tara": "CZ",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 21830
+  },
+  {
+    "tara": "CZ",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 21910
+  },
+  {
+    "tara": "CZ",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 21680
+  },
+  {
+    "tara": "CZ",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 21910
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 49010
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 49440
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 49260
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 49750
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 50110
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 50810
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 51950
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 53200
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 53920
+  },
+  {
+    "tara": "DK",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 54630
+  },
+  {
+    "tara": "DK",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 53540
+  },
+  {
+    "tara": "DK",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 56780
+  },
+  {
+    "tara": "DK",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 56530
+  },
+  {
+    "tara": "DK",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 56470
+  },
+  {
+    "tara": "DK",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 58160
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 38430
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 39880
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 40010
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 40100
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 40850
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 41230
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 41880
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 42960
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 43390
+  },
+  {
+    "tara": "DE",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 43790
+  },
+  {
+    "tara": "DE",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 42020
+  },
+  {
+    "tara": "DE",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 43730
+  },
+  {
+    "tara": "DE",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 44230
+  },
+  {
+    "tara": "DE",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 43450
+  },
+  {
+    "tara": "DE",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 43110
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 15380
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 16590
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 17260
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 17630
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 18280
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 18650
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 19190
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 20270
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 20970
+  },
+  {
+    "tara": "EE",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 21650
+  },
+  {
+    "tara": "EE",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 20960
+  },
+  {
+    "tara": "EE",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 22670
+  },
+  {
+    "tara": "EE",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 22370
+  },
+  {
+    "tara": "EE",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 21210
+  },
+  {
+    "tara": "EE",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 21060
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 43990
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 44510
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 44150
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 44890
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 48770
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 60210
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 60220
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 65370
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 69390
+  },
+  {
+    "tara": "IE",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 71720
+  },
+  {
+    "tara": "IE",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 75820
+  },
+  {
+    "tara": "IE",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 87160
+  },
+  {
+    "tara": "IE",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 91760
+  },
+  {
+    "tara": "IE",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 87810
+  },
+  {
+    "tara": "IE",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 88600
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 19300
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 17420
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 16050
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 15800
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 16030
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 16100
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 16160
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 16430
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 16810
+  },
+  {
+    "tara": "EL",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 17210
+  },
+  {
+    "tara": "EL",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 15660
+  },
+  {
+    "tara": "EL",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 17110
+  },
+  {
+    "tara": "EL",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 18160
+  },
+  {
+    "tara": "EL",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 18600
+  },
+  {
+    "tara": "EL",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 19020
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 24510
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 24260
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 23560
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 23310
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 23730
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 24720
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 25420
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 26110
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 26620
+  },
+  {
+    "tara": "ES",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 26930
+  },
+  {
+    "tara": "ES",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 23850
+  },
+  {
+    "tara": "ES",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 25440
+  },
+  {
+    "tara": "ES",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 26820
+  },
+  {
+    "tara": "ES",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 27150
+  },
+  {
+    "tara": "ES",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 27800
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 34310
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 34990
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 34880
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 34990
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 35150
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 35370
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 35540
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 36140
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 36570
+  },
+  {
+    "tara": "FR",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 37160
+  },
+  {
+    "tara": "FR",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 34280
+  },
+  {
+    "tara": "FR",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 36470
+  },
+  {
+    "tara": "FR",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 37320
+  },
+  {
+    "tara": "FR",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 37760
+  },
+  {
+    "tara": "FR",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 38110
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 11440
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 11470
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 11270
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 11340
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 11370
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 11760
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 12320
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 12910
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 13460
+  },
+  {
+    "tara": "HR",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 14020
+  },
+  {
+    "tara": "HR",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 12980
+  },
+  {
+    "tara": "HR",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 14750
+  },
+  {
+    "tara": "HR",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 15900
+  },
+  {
+    "tara": "HR",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 16490
+  },
+  {
+    "tara": "HR",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 17060
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 30440
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 30550
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 29510
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 28920
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 28910
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 29210
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 29630
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 30160
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 30470
+  },
+  {
+    "tara": "IT",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 30680
+  },
+  {
+    "tara": "IT",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 28100
+  },
+  {
+    "tara": "IT",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 30760
+  },
+  {
+    "tara": "IT",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 32310
+  },
+  {
+    "tara": "IT",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 32640
+  },
+  {
+    "tara": "IT",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 32890
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 23890
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 23390
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 22280
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 20830
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 20490
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 21140
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 22410
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 23500
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 24690
+  },
+  {
+    "tara": "CY",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 25790
+  },
+  {
+    "tara": "CY",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 24630
+  },
+  {
+    "tara": "CY",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 27030
+  },
+  {
+    "tara": "CY",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 28730
+  },
+  {
+    "tara": "CY",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 29200
+  },
+  {
+    "tara": "CY",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 29870
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 10840
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 11380
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 12360
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 12750
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 13140
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 13750
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 14230
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 14850
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 15610
+  },
+  {
+    "tara": "LV",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 15820
+  },
+  {
+    "tara": "LV",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 15370
+  },
+  {
+    "tara": "LV",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 16580
+  },
+  {
+    "tara": "LV",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 16890
+  },
+  {
+    "tara": "LV",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 16770
+  },
+  {
+    "tara": "LV",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 16910
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 11160
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 12140
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 12830
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 13480
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 14100
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 14630
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 15200
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 16090
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 17030
+  },
+  {
+    "tara": "LT",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 17870
+  },
+  {
+    "tara": "LT",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 17890
+  },
+  {
+    "tara": "LT",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 19040
+  },
+  {
+    "tara": "LT",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 19350
+  },
+  {
+    "tara": "LT",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 19220
+  },
+  {
+    "tara": "LT",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 19690
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 103430
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 102110
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 101440
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 102010
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 102240
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 102530
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 104920
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 104020
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 103640
+  },
+  {
+    "tara": "LU",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 104310
+  },
+  {
+    "tara": "LU",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 102190
+  },
+  {
+    "tara": "LU",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 107570
+  },
+  {
+    "tara": "LU",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 104100
+  },
+  {
+    "tara": "LU",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 102250
+  },
+  {
+    "tara": "LU",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 101000
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 11060
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 11300
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 11220
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 11490
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 12040
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 12530
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 12880
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 13460
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 14240
+  },
+  {
+    "tara": "HU",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 14980
+  },
+  {
+    "tara": "HU",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 14370
+  },
+  {
+    "tara": "HU",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 15470
+  },
+  {
+    "tara": "HU",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 16160
+  },
+  {
+    "tara": "HU",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 16050
+  },
+  {
+    "tara": "HU",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 16190
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 20750
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 20860
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 21540
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 22600
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 23840
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 25520
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 25960
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 28530
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 29510
+  },
+  {
+    "tara": "MT",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 29480
+  },
+  {
+    "tara": "MT",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 27870
+  },
+  {
+    "tara": "MT",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 31420
+  },
+  {
+    "tara": "MT",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 31400
+  },
+  {
+    "tara": "MT",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 33380
+  },
+  {
+    "tara": "MT",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 34730
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 44400
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 44980
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 44370
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 44230
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 44780
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 45530
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 46380
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 47390
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 48180
+  },
+  {
+    "tara": "NL",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 48970
+  },
+  {
+    "tara": "NL",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 46810
+  },
+  {
+    "tara": "NL",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 49490
+  },
+  {
+    "tara": "NL",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 51480
+  },
+  {
+    "tara": "NL",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 50660
+  },
+  {
+    "tara": "NL",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 50880
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 42280
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 43370
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 43450
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 43080
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 43070
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 43200
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 43550
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 44260
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 45140
+  },
+  {
+    "tara": "AT",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 45730
+  },
+  {
+    "tara": "AT",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 42650
+  },
+  {
+    "tara": "AT",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 44580
+  },
+  {
+    "tara": "AT",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 46430
+  },
+  {
+    "tara": "AT",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 45670
+  },
+  {
+    "tara": "AT",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 45140
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 10150
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 10680
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 10840
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 10930
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 11360
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 11870
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 12240
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 12870
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 13680
+  },
+  {
+    "tara": "PL",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 14310
+  },
+  {
+    "tara": "PL",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 14310
+  },
+  {
+    "tara": "PL",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 15380
+  },
+  {
+    "tara": "PL",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 15840
+  },
+  {
+    "tara": "PL",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 15950
+  },
+  {
+    "tara": "PL",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 16470
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 19440
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 19110
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 18410
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 18330
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 18560
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 18920
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 19350
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 20020
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 20620
+  },
+  {
+    "tara": "PT",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 21150
+  },
+  {
+    "tara": "PT",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 19360
+  },
+  {
+    "tara": "PT",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 20390
+  },
+  {
+    "tara": "PT",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 21690
+  },
+  {
+    "tara": "PT",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 22130
+  },
+  {
+    "tara": "PT",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 22350
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 8050
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 8460
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 8660
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 8710
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 9100
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 9430
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 9760
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 10620
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 11260
+  },
+  {
+    "tara": "RO",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 11760
+  },
+  {
+    "tara": "RO",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 11390
+  },
+  {
+    "tara": "RO",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 12130
+  },
+  {
+    "tara": "RO",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 12690
+  },
+  {
+    "tara": "RO",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 12970
+  },
+  {
+    "tara": "RO",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 13100
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 19920
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 20010
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 19390
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 19210
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 19720
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 20170
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 20770
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 21830
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 22720
+  },
+  {
+    "tara": "SI",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 23330
+  },
+  {
+    "tara": "SI",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 22230
+  },
+  {
+    "tara": "SI",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 24040
+  },
+  {
+    "tara": "SI",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 24660
+  },
+  {
+    "tara": "SI",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 25120
+  },
+  {
+    "tara": "SI",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 25480
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 14100
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 14540
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 14750
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 14830
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 15220
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 16000
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 16280
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 16730
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 17380
+  },
+  {
+    "tara": "SK",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 17760
+  },
+  {
+    "tara": "SK",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 17270
+  },
+  {
+    "tara": "SK",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 18320
+  },
+  {
+    "tara": "SK",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 18360
+  },
+  {
+    "tara": "SK",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 18750
+  },
+  {
+    "tara": "SK",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 19110
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 41660
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 42460
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 41620
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 41020
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 40650
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 40700
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 41640
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 42910
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 43360
+  },
+  {
+    "tara": "FI",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 43910
+  },
+  {
+    "tara": "FI",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 42740
+  },
+  {
+    "tara": "FI",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 43800
+  },
+  {
+    "tara": "FI",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 44010
+  },
+  {
+    "tara": "FI",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 43440
+  },
+  {
+    "tara": "FI",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 43280
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "PIB",
+    "valoare": 43130
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "PIB",
+    "valoare": 44150
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "PIB",
+    "valoare": 43650
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "PIB",
+    "valoare": 43770
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "PIB",
+    "valoare": 44330
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "PIB",
+    "valoare": 45790
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "PIB",
+    "valoare": 46220
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "PIB",
+    "valoare": 46420
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "PIB",
+    "valoare": 46700
+  },
+  {
+    "tara": "SE",
+    "an": "2019",
+    "indicator": "PIB",
+    "valoare": 47410
+  },
+  {
+    "tara": "SE",
+    "an": "2020",
+    "indicator": "PIB",
+    "valoare": 46180
+  },
+  {
+    "tara": "SE",
+    "an": "2021",
+    "indicator": "PIB",
+    "valoare": 48300
+  },
+  {
+    "tara": "SE",
+    "an": "2022",
+    "indicator": "PIB",
+    "valoare": 48390
+  },
+  {
+    "tara": "SE",
+    "an": "2023",
+    "indicator": "PIB",
+    "valoare": 47960
+  },
+  {
+    "tara": "SE",
+    "an": "2024",
+    "indicator": "PIB",
+    "valoare": 48210
+  }
+]
