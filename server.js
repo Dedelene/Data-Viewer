@@ -3,7 +3,7 @@ import express from "express";
 import nodemon from "nodemon";
 
 const app = express();
-const PORT = 3000;
+//const PORT = 3000;
 let data;
 
 app.use(express.static("public"));
@@ -23,4 +23,5 @@ app.post('/save', (req, res) => {
 
 });
 
-app.listen(PORT);
+//app.listen(PORT);
+export default app;
