@@ -1,9 +1,9 @@
 import fs from "fs";
 import express from "express";
-import nodemon from "nodemon";
+import 'dotenv/config';
 
 const app = express();
-//const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 let data;
 
 app.use(express.static("public"));
@@ -23,5 +23,4 @@ app.post('/save', (req, res) => {
 
 });
 
-//app.listen(PORT);
-export default app;
+app.listen(PORT);
