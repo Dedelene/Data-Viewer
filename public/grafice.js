@@ -186,6 +186,7 @@ export function animatieBubble(rawData, years){
     }, 800);//durata milisecunde
 }
 
+//Tabel de date
 export function genereazaTabel(data){
 
     //modificare date indicator - valoare
